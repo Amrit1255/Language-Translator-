@@ -10,3 +10,17 @@ This Is A type of a google translation Webpage in which all the language of indi
 
  
 <img width="960" alt="Screenshot 2023-10-02 175256" src="https://github.com/Amrit1255/Language-Translator-/assets/111603720/431b0c52-444c-4891-9fdf-6bd3c850947c">
+
+
+
+## Running Locally
+
+**1. Clone Repo**
+
+```bash
+git clone https://github.com/mckaywrigley/ai-code-translator.git
+```
+
+## Contact
+
+If you have any questions, feel free to reach out to me on [Instagram](https://www.instagram.com/mr_amrit_t/).
