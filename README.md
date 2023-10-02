@@ -18,7 +18,7 @@ This Is A type of a google translation Webpage in which all the language of indi
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+https://github.com/Amrit1255/Language-Translator-.git
 ```
 
 ## Contact
